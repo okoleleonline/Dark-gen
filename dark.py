@@ -76,7 +76,7 @@ Thread(target=start_keep_alive_thread, daemon=True).start()
 
 # Convert ADMIN_IDS to a list of integers
 ADMIN_IDS = [5344691638]  # Changed from string to list of integers
-BOT_TOKEN = "7422017555:AAG_M-RTjwEvlP61YkBsVTnUpDC_SJrKYIA"
+BOT_TOKEN = "7970419786:AAFmXQB1ddwKXsiyjnZ_akdZGASBuVYJmNY"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 redeemed_keys = set()
